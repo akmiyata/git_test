@@ -1,0 +1,1 @@
+This is akmiyata’s first git project!
